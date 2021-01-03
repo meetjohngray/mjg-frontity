@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "7fec087bee726b229e6b",
+  "publicPath": "/static/",
+  "outputPath": "/Users/stuntfan/Dev/mjg-frontity/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "mjg-frontity": "mjg-frontity.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 47701,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "mjg-frontity.module.js",
+      "size": 5267345,
+      "chunks": [
+        "mjg-frontity"
+      ],
+      "chunkNames": [
+        "mjg-frontity"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "mjg-frontity": {
+      "chunks": [
+        "mjg-frontity"
+      ],
+      "assets": [
+        "mjg-frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "mjg-frontity": {
+      "chunks": [
+        "mjg-frontity"
+      ],
+      "assets": [
+        "mjg-frontity.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
