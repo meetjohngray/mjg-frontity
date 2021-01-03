@@ -46,6 +46,9 @@ psd
 thumb
 sketch
 
+### Frontity ###
+/Build/*
+
 ### vscode ###
 .vscode/*
 !.vscode/settings.json
