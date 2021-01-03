@@ -14,24 +14,20 @@ const settings = {
         "theme": {
           "menu": [
             [
-              "Home",
+              "Blog",
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Writing Portfolio",
+              "/writing-portfolio%e2%80%8b/"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "Images",
+              "/images/"
             ],
             [
-              "Japan",
-              "/tag/japan/"
-            ],
-            [
-              "About Us",
-              "/about-us/"
+              "About",
+              "/about/"
             ]
           ],
           "featured": {

@@ -47,7 +47,7 @@ thumb
 sketch
 
 ### Frontity ###
-/Build/*
+/build/*
 
 ### vscode ###
 .vscode/*
