@@ -4,7 +4,7 @@ const settings = {
     "frontity": {
       "url": "https://test.frontity.org",
       "title": "Meet John Gray",
-      "description": "WordPress installation for Frontity development"
+      // "description": "WordPress installation for Frontity development"
     }
   },
   "packages": [
@@ -31,7 +31,7 @@ const settings = {
             ]
           ],
           "featured": {
-            "showOnList": false,
+            "showOnList": true,
             "showOnPost": false
           }
         }

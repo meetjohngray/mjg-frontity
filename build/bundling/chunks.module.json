@@ -2,14 +2,28 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "7fec087bee726b229e6b",
+  "hash": "ffb4acf4165d5b514fc0",
   "publicPath": "/static/",
   "outputPath": "/Users/stuntfan/Dev/mjg-frontity/build/static",
   "assetsByChunkName": {
     "list": "list.module.js",
-    "mjg-frontity": "mjg-frontity.module.js"
+    "mjg-frontity": [
+      "mjg-frontity.module.js",
+      "mjg-frontity.9d7a44a6f7a4bae87dd9.hot-update.js"
+    ]
   },
   "assets": [
+    {
+      "name": "9d7a44a6f7a4bae87dd9.hot-update.json",
+      "size": 54,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
     {
       "name": "list.module.js",
       "size": 47701,
@@ -23,8 +37,23 @@
       "emitted": false
     },
     {
+      "name": "mjg-frontity.9d7a44a6f7a4bae87dd9.hot-update.js",
+      "size": 20221,
+      "chunks": [
+        "mjg-frontity"
+      ],
+      "chunkNames": [
+        "mjg-frontity"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
       "name": "mjg-frontity.module.js",
-      "size": 5267345,
+      "size": 5267327,
       "chunks": [
         "mjg-frontity"
       ],
@@ -42,7 +71,8 @@
         "mjg-frontity"
       ],
       "assets": [
-        "mjg-frontity.module.js"
+        "mjg-frontity.module.js",
+        "mjg-frontity.9d7a44a6f7a4bae87dd9.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -54,7 +84,8 @@
         "mjg-frontity"
       ],
       "assets": [
-        "mjg-frontity.module.js"
+        "mjg-frontity.module.js",
+        "mjg-frontity.9d7a44a6f7a4bae87dd9.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
